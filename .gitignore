@@ -1,0 +1,6 @@
+build
+dist
+BuscadorSetup.exe
+pyinstaller.txt
+.idea
+__pycache__
